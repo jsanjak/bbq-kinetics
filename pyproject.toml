@@ -1,0 +1,11 @@
+[project]
+name = "bbq-iq"
+version = "0.1.0"
+description = "Brisket collagen breakdown simulation model"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "pandas",
+    "scipy>=1.15.3",
+]
